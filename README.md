@@ -258,21 +258,6 @@ Instagram automation in Rocket Social Boost provides comprehensive management of
 
 ```
 
-#### Package Types
-1. Regular Growth Packages:
-   - Growth Package Monthly/Yearly
-   - Gold Package Monthly/Yearly
-   - Diamond Package Monthly/Yearly
-   - Platinum Package Monthly/Yearly
-   - VIP Package Monthly/Yearly
-   - Elite Package Monthly/Yearly
-
-2. Viral Growth Packages:
-   - Small Viral Monthly
-   - Medium Viral Monthly
-   - Big Viral Monthly
-   - Super Viral Monthly
-
 #### Post Automation System
 The post automation system (`post_automation.py`) provides:
 
